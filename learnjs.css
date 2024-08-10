@@ -1,0 +1,156 @@
+html,
+body{
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+   background-image: url(maths.jpg);
+}
+
+#wrapper div,#wrapper h2{
+    display:flex;
+    justify-content: center;
+        display: flex;
+        align-items: stretch;
+
+
+    
+}
+
+h2{
+    color:#ffffff;
+    letter-spacing: 1px;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid black ;
+    margin-top:40px;
+    height:2em;
+    width:360px;
+    padding-left:10px;
+    
+}
+
+input:active{
+    border:none;
+}
+#wrapper{
+    height:400px;
+    width:400px;
+    margin:200px auto;
+    margin-top: 30px;
+    background-color:#020631;
+    border-radius:10px;
+    padding:30px;
+}
+
+.buttonone{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #121213;
+    font-size:13px;
+}
+.button2{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}
+.button3{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #0c0c0c;
+    font-size:13px;
+}
+
+.button4{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}.button5{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}.button6{
+    margin-top:20px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}
+.button7{
+    margin-top:30px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}
+.button8{
+    margin-top:30px;
+    background-color:#ffcc24;
+    border-radius: 4px;
+    height: 30px;
+    font-weight: 500;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    border: none;
+    color: #040404;
+    font-size:13px;
+}
+
+button:hover{
+    cursor:pointer;
+}
+#result{
+    color:white;
+    margin-top:40px;
+    font-size:32px;
+}
